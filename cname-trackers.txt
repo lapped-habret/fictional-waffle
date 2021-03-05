@@ -3467,7 +3467,7 @@ sales.disneylandparis.com
 tag.boulanger.fr
 tagcommander.laredoute.be
 tc.airfrance.com
-tcdata.fnac.com!
+tcdata.fnac.com
 ! Company name: Criteo
 !
 ! dnsdelegation.io disguised trackers
@@ -4002,7 +4002,7 @@ doja.worten.es
 op-drive-sto.carrefour.fr
 pk8n57.fnac.com
 rdtcnt.laredoute.fr
-rdtdlv.laredoute.fr!
+rdtdlv.laredoute.fr
 ! Company name: Eulerian
 !
 ! eulerian.net disguised trackers
@@ -4158,12 +4158,12 @@ xy33.smallable.com
 yoc.younited-credit.com
 zkc5.fleurancenature.fr
 zm5d.lexpress.fr
-zsi7.destinia.do!
+zsi7.destinia.do
 ! Company name: GENIEE
 !
 ! genieespv.jp disguised trackers
 !
-! no domains found for genieespv.jp!
+#! no domains found for genieespv.jp!
 ! Company name: GMO Internet Group
 !
 ! ad-cloud.jp disguised trackers
@@ -4174,7 +4174,7 @@ i.image-ad.jp
 i.newssuite.sony.net
 j.bg.adresult-sp.jp
 j.image-ad.jp
-j.newssuite.sony.net!
+j.newssuite.sony.net
 ! Company name: Ingenious Technologies
 !
 ! affex.org disguised trackers
