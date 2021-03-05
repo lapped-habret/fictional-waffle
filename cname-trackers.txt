@@ -4938,7 +4938,7 @@ tp.schlafwelt.de
 tp.sheego.de
 tp.universal.at
 tp.yomonda.de
-tp.yourhome.de!
+tp.yourhome.de
 ! Company name: Pardot
 !
 ! go.pardot.com disguised trackers
@@ -7132,7 +7132,7 @@ www6.gemalto.com
 www6.thalesgroup.com
 wwwf15.mitsubishielectric.co.jp
 you.myubiquity.com
-zen.itrsgroup.com!
+zen.itrsgroup.com
 ! Company name: TraceDock
 !
 ! a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com disguised trackers
@@ -7155,7 +7155,7 @@ tdep.vacansoleil.fr
 !
 ! afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com disguised trackers
 !
-tdep.garmundo.de!
+tdep.garmundo.de
 ! Company name: Webtrekk
 !
 ! webtrekk.net disguised trackers
@@ -7285,7 +7285,7 @@ wttd.douglas.nl
 wttd.douglas.pl
 wttd.madeleine-fashion.be
 wttd.madeleine-mode.ch
-wttd.madeleine.de!
+wttd.madeleine.de
 ! Company name: Wizaly
 !
 ! wizaly.com disguised trackers
