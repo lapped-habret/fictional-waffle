@@ -4238,7 +4238,7 @@ pny.net.penny.de
 rw.net.rewe.de
 see-track.net.daraz.com
 ssl.affiliate.logitravel.com
-track.net.daraz.com!
+track.net.daraz.com
 ! Company name: Keyade
 !
 ! k.keyade.com disguised trackers
@@ -4259,7 +4259,7 @@ k.voyageursdumonde.ch
 k.voyageursdumonde.fr
 ka.ilius.net
 keyade.alltricks.fr
-tck.transavia.com!
+tck.transavia.com
 ! Company name: Lead Forensics
 !
 ! ghochv3eng.trafficmanager.net disguised trackers
@@ -4431,7 +4431,7 @@ www.trksrv45.com
 www.web-01-gbl.com
 www.yama1hove.com
 www.ydwsjt-2.com
-www.zcbmn14.com!
+www.zcbmn14.com
 ! Company name: NP6
 !
 ! tracking.bp01.net disguised trackers
@@ -4536,7 +4536,7 @@ tr.toner-service.fr
 tr.urfk07s.espmp-nifr.net
 tr.welcome.easyvoyage.com
 tr5.mailperf.com
-trpreviews.bp01.net!
+trpreviews.bp01.net
 ! Company name: Oracle Eloqua
 !
 ! hs.eloqua.com disguised trackers
@@ -4908,7 +4908,7 @@ wholesalebanking.wf.com
 www.marketing.hilton.com
 www.medtronicsolutions.com
 www.service.cz.nl
-www1.kawasaki-motors.com!
+www1.kawasaki-motors.com
 ! Company name: Otto Group
 !
 ! oghub.io disguised trackers
