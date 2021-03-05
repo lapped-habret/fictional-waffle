@@ -10,7 +10,7 @@ a8clk.skynet-c.jp
 a8cv.celbest.urr.jp
 a8cv.highclassmoney.net
 a8cventry.uqwimax.jp
-listing-a8-itp.hello-storage.com!
+listing-a8-itp.hello-storage.com
 ! Company name: Act-On
 !
 ! actonservice.com disguised trackers
@@ -649,7 +649,7 @@ www3.strsoftware.com
 yourhealth.nwh.org
 yourhealth.promedica.org
 yourupmcsusquehanna.hrm.healthgrades.com
-yubico.actonservice.com!
+yubico.actonservice.com
 ! Company name: AD EBiS
 !
 ! ebis.ne.jp disguised trackers
@@ -667,7 +667,7 @@ ebis.kubara.jp
 ebis.sevenbank.co.jp
 ebis.sunstar-shop.jp
 ebs.pulito.co.jp
-kraciecojp-ebis.kracie.co.jp!
+kraciecojp-ebis.kracie.co.jp
 ! Company name: Adobe Experience Cloud (formerly Omniture)
 !
 ! 2o7.net disguised trackers
@@ -3397,7 +3397,7 @@ www91.intel.in
 www91.intel.it
 www91.intel.la
 www91.intel.pl
-www91.intel.ru!
+www91.intel.ru
 ! Company name: AT Internet (formerly XiTi)
 !
 ! at-o.net disguised trackers
@@ -3450,7 +3450,7 @@ wvvw.mc-doualiya.com
 wvvw.rfi.fr
 y1.arte.tv
 zelten.fritz-berger.de
-zug.sbb.ch!
+zug.sbb.ch
 ! Company name: Commanders Act
 !
 ! tagcommander.com disguised trackers
