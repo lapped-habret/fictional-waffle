@@ -5228,9 +5228,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function main() {
-    if (!window.location.href.match('chat.google.com')) {
+    /*if (!window.location.href.match('chat.google.com')) {
         return;
-    }
+    }*/
     Object(_ops__WEBPACK_IMPORTED_MODULE_0__[/* initializeRuleSwapList */ "e"])();
     Object(_ops__WEBPACK_IMPORTED_MODULE_0__[/* onStyleSheetLoaded */ "f"])(function (styleSheet) {
         Object(_ops__WEBPACK_IMPORTED_MODULE_0__[/* addRuleSwaps */ "b"])(styleSheet);
